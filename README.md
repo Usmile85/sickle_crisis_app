@@ -1,4 +1,4 @@
-# Sickle Crisis Prediction App 🩸
+# Sickle cell Crisis Prediction App 🩸
 
 A machine learning project to **predict the likelihood of a sickle cell crisis** using patient health indicators. This app helps patients and healthcare providers monitor risk and take proactive measures.
 
